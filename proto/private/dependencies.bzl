@@ -26,7 +26,6 @@ dependencies = {
     "com_google_protobuf": {
         "strip_prefix": "protobuf-3.12.0",
         "urls": [
-            "https://mirror.bazel.build/github.com/protocolbuffers/protobuf/archive/v3.12.0.tar.gz",
             "https://github.com/protocolbuffers/protobuf/archive/v3.12.0.tar.gz",
         ],
     },
