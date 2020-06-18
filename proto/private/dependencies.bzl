@@ -24,10 +24,10 @@ dependencies = {
         ],
     },
     "com_google_protobuf": {
-        "sha256": "71030a04aedf9f612d2991c1c552317038c3c5a2b578ac4745267a45e7037c29",
-        "strip_prefix": "protobuf-3.12.3",
+        "strip_prefix": "protobuf-3.12.0",
         "urls": [
-            "https://github.com/protocolbuffers/protobuf/archive/v3.12.3.tar.gz",
+            "https://mirror.bazel.build/github.com/protocolbuffers/protobuf/archive/v3.12.0.tar.gz",
+            "https://github.com/protocolbuffers/protobuf/archive/v3.12.0.tar.gz",
         ],
     },
     # Dependency of `com_google_protobuf`.
